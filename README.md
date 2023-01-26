@@ -14,7 +14,7 @@ This repository was created to serve as a backup for my local project, Steganogr
 ### Examples -
 <i>These are just the examples of ASCII Art generated, for the Steganography aspect of this project feel free to clone the repository and try it out.</i>
 
-![Example 1](res/Output/Example 1.png)
+![Example 1](res/Output/Example%201.png)
 
 ![Example 2](res/Output/Example%202.png)
 
